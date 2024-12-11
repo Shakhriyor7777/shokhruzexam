@@ -7,9 +7,10 @@ body {
 }
 
 .container{
-  max-width: 2240px;
+  max-width: 1240px;
   margin: 0 auto;
 }
+
                        
 .navbar {
     display: flex;
